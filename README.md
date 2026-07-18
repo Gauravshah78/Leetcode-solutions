@@ -42,6 +42,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
