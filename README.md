@@ -51,6 +51,7 @@
 | [0118-pascals-triangle](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -90,6 +92,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -106,4 +109,8 @@
 | [0048-rotate-image](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
