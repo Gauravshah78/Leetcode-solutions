@@ -1,14 +1,14 @@
 class Solution {
 public:
-    int solve(vector<int>& arr, int l, int r, vector<vector<int>>& dp) {
+    long long solve(vector<int>& arr, int l, int r, vector<vector<int>>& dp) {
         if (l == r) {
             return arr[l];
         }
         if (dp[l][r] != -1) {
             return dp[l][r];
         }
-        int takeleft = arr[l] - solve(arr, l + 1, r, dp);
-        int takeright = arr[r] - solve(arr, l, r - 1, dp);
+        long long takeleft = arr[l] - solve(arr, l + 1, r, dp);
+        long long takeright = arr[r] - solve(arr, l, r - 1, dp);
         return dp[l][r] = max(takeleft, takeright);
     }
     bool predictTheWinner(vector<int>& arr) {
