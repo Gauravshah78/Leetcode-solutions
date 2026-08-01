@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -18,10 +19,12 @@
 | [0118-pascals-triangle](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -86,6 +89,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -257,4 +261,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0278-first-bad-version) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
