@@ -88,6 +88,7 @@
 | [0493-reverse-pairs](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -145,6 +146,7 @@
 | [0217-contains-duplicate](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -158,6 +160,7 @@
 | [0136-single-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 | [0229-majority-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
