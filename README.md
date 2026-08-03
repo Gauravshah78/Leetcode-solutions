@@ -47,6 +47,7 @@
 | [0189-rotate-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -90,6 +91,7 @@
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -124,6 +126,7 @@
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -156,6 +159,7 @@
 | [0217-contains-duplicate](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -181,6 +185,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
