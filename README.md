@@ -95,6 +95,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -164,6 +165,7 @@
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
