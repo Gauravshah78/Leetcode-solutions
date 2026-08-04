@@ -118,6 +118,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3731-find-missing-elements](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3731-find-missing-elements](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
