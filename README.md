@@ -9,6 +9,7 @@
 | [0048-rotate-image](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -47,6 +48,7 @@
 | [0088-merge-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -195,6 +197,7 @@
 | [0001-two-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -322,4 +325,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
