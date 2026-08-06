@@ -96,6 +96,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0228-summary-ranges) |
@@ -142,6 +143,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0278-first-bad-version) |
@@ -167,6 +169,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -193,6 +196,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
