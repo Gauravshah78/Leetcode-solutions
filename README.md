@@ -379,6 +379,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -411,4 +412,8 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
