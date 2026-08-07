@@ -58,6 +58,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -122,6 +123,7 @@
 | [0493-reverse-pairs](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -175,6 +177,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -204,6 +207,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -337,6 +341,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Depth-First Search
 |  |
@@ -402,4 +407,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
