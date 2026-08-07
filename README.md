@@ -58,6 +58,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -69,6 +70,7 @@
 | [0125-valid-palindrome](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -334,6 +337,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Depth-First Search
 |  |
 | ------- |
