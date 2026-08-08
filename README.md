@@ -29,6 +29,7 @@
 | [0509-fibonacci-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
@@ -135,6 +136,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
