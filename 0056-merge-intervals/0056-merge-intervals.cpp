@@ -1,26 +1,30 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& intervals) {
-          sort(intervals.begin(), intervals.end());
+    vector<vector<int>> merge(vector<vector<int>>& arr) {
 
-        // Vector to store final merged intervals
-        vector<vector<int>> merged;
+        vector<vector<int>> res;
+        int n = arr.size();
 
-        // Traverse each interval
-        for (auto interval : intervals) {
-            // If merged is empty or current interval does not overlap
-            if (merged.empty() || merged.back()[1] < interval[0]) {
-                // Add current interval as a new non-overlapping block
-                merged.push_back(interval);
-            } else {
-                // Overlapping: merge by extending the end time
-                merged.back()[1] = max(
-                    merged.back()[1],
-                    interval[1]
-                );
+        sort(arr.begin(), arr.end());
+        
+        int start1 = arr[0][0];
+        int end1 = arr[0][1];
+
+        for (int i = 1; i < n; i++) {
+            int start2 = arr[i][0];
+            int end2 = arr[i][1];
+
+            if (end1 >= start2) {
+                end1 = max(end1, end2);
+                continue;
             }
+
+            res.push_back({start1, end1});
+            start1 = start2;
+            end1 = end2;
         }
 
-        return merged;
+        res.push_back({start1, end1});
+        return res;
     }
 };
