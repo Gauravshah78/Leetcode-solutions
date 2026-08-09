@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -58,6 +59,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -353,6 +355,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Depth-First Search
@@ -437,6 +440,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Quicksort
 |  |
 | ------- |
