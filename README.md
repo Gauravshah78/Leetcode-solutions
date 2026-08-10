@@ -137,6 +137,7 @@
 | [0485-max-consecutive-ones](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -374,6 +375,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -450,6 +452,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Pigeonhole Principle
 |  |
