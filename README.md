@@ -149,6 +149,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -186,6 +187,7 @@
 | [0704-binary-search](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -210,6 +212,7 @@
 | [0567-permutation-in-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -240,6 +243,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
