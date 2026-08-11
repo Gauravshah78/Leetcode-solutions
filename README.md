@@ -147,6 +147,7 @@
 | [0704-binary-search](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -380,6 +381,7 @@
 | [0234-palindrome-linked-list](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Depth-First Search
@@ -457,6 +459,7 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Pigeonhole Principle
 |  |
 | ------- |
