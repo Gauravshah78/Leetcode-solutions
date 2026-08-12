@@ -83,6 +83,7 @@
 | [0076-minimum-window-substring](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -283,6 +284,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -322,6 +324,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -441,6 +444,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
