@@ -172,6 +172,7 @@
 | [1406-stone-game-iii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -265,6 +266,7 @@
 | [0724-find-pivot-index](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
