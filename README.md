@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -119,6 +120,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0136-single-number) |
@@ -329,6 +331,7 @@
 | [0054-spiral-matrix](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Counting
@@ -399,6 +402,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -483,6 +487,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0739-daily-temperatures) |
