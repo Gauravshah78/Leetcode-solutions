@@ -93,6 +93,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [3838-weighted-word-mapping](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [0258-add-digits](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3838-weighted-word-mapping](https://github.com/Gauravshah78/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
